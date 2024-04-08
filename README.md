@@ -3,4 +3,4 @@
 
 - [Protótipo](https://www.canva.com/design/DAF-85cKogo/pi_YSZbZBWKdHIIaoPPLfQ/edit?utm_content=DAF-85cKogo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton),Aqui criamos um prótotipo de um aplicativo de delivery para um restaurante chamado CocoBamboo.
 
-- [MarkDown](https://github.com/lucascodigado/aulaMarkdown), Nessa aula aprendemos a fazer programações usando o markdown, e até esse links foram feitos graças a aula markdown.   
+- [Aula MarkDown](https://github.com/lucascodigado/aulaMarkdown), Nessa aula aprendemos a fazer programações usando o markdown, e até esse links foram feitos graças a aula markdown.   
